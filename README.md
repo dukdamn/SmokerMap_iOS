@@ -12,12 +12,13 @@
 ## Description
 
 - 개발 기간: 2020.03.09~ 2020.03.13 (5일)
-- 참여 인원: iOS 2명 [Team repository⬅️](https://github.com/JoongChangYang/OGADA_iOS)
+- 참여 인원: iOS 2명 [Team repository⬅️](https://github.com/dukdamn/SmokerMap_iOS/tree/master/SmokerMap)
 - 사용 기술
   - Language: Swift5
   - Framework: UIKit, MapKit
+  - Library: SnapKit, NMapsMap, Firebase, GoogleSignIn, Charts
 - 담당 구현 파트
-
+흡연장소 저장
 
 ## Views
 
@@ -25,9 +26,9 @@
 
 ## Implementation
 
-### 여행 동선
+### 흡연장소 저장
 
-<img src = "https://github.com/JoongChangYang/OGADA_iOS/blob/master/assets/movingline.gif"></img>
+
 
 - GooglePlaces를 이용하여 가고싶은 지역을 검색하고 동선에 추가, 저장
 
